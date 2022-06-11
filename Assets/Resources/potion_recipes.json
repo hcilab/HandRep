@@ -1,0 +1,250 @@
+{
+	"tier1": [
+		[{
+				"quantifier": "quantity",
+				"min": 36,
+                "tag":"°C",
+				"max": 42,
+				"clean_name": "Temperature",
+				"key": "temperature"
+			},
+			{
+				"quantifier": "quantity",
+				"tag": "g",
+				"min": 3.50,
+				"max": 4.50,
+				"clean_name": "Enchanted Brown Mushroom",
+				"key": "ench_brown_mushroom"
+			},
+			{
+				"quantifier": "count",
+				"min": 1,
+				"max": 1,
+                "tag":"",
+				"clean_name": "Green Puzzle Cube",
+				"key": "green_puzzle_cube"
+			},
+			{
+				"quantifier": "quantity",
+				"min": 3.00,
+				"max": 3.60,
+				"tag": "ml",
+				"clean_name": "Blue Potion",
+				"key": "blue_bottle"
+			},
+			{
+				"quantifier": "count",
+				"min": 1,
+                "tag":"",
+				"max": 1,
+				"clean_name": "Ground White Feather",
+				"key": "grnd_white_feather"
+			}
+		],
+        [{
+				"quantifier": "quantity",
+				"min": 68,
+                "tag":"°C",
+				"max": 74,
+				"clean_name": "Temperature",
+				"key": "temperature"
+			},
+			{
+				"quantifier": "quantity",
+				"tag": "g",
+				"min": 3.50,
+				"max": 4.50,
+				"clean_name": "Enchanted Brown Mushroom",
+				"key": "ench_brown_mushroom"
+			},
+			{
+				"quantifier": "count",
+				"min": 1,
+				"max": 1,
+                "tag":"",
+				"clean_name": "Blue Puzzle Cube",
+				"key": "blue_puzzle_cube"
+			},
+			{
+				"quantifier": "quantity",
+				"min": 3.00,
+				"max": 3.60,
+				"tag": "ml",
+				"clean_name": "Red Potion",
+				"key": "red_bottle"
+			},
+			{
+				"quantifier": "count",
+				"min": 1,
+                "tag":"",
+				"max": 1,
+				"clean_name": "Ground White Feather",
+				"key": "grnd_white_feather"
+			}
+		],
+		[{
+				"quantifier": "quantity",
+				"min": 56,
+                "tag":"°C",
+				"max": 62,
+				"clean_name": "Temperature",
+				"key": "temperature"
+			},
+			{
+				"quantifier": "quantity",
+				"tag": "g",
+				"min": 0.8,
+				"max": 1.4,
+				"clean_name": "Enchanted White Feather",
+				"key": "ench_white_feather"
+			},
+			{
+				"quantifier": "count",
+				"min": 1,
+                "tag":"",
+				"max": 1,
+				"clean_name": "Blue Puzzle Cube",
+				"key": "blue_puzzle_cube"
+			},
+			{
+				"quantifier": "quantity",
+				"min": 3.00,
+				"max": 3.60,
+				"tag": "ml",
+				"clean_name": "Red Potion",
+				"key": "red_bottle"
+			},
+			{
+				"quantifier": "count",
+				"min": 1,
+				"max": 1,
+                "tag":"",
+				"clean_name": "Ground Brown Mushroom",
+				"key": "grnd_brown_mushroom"
+			}
+		],
+		[{
+				"quantifier": "quantity",
+				"min": 20,
+                "tag":"°C",
+				"max": 26,
+				"clean_name": "Temperature",
+				"key": "temperature"
+			},
+			{
+				"quantifier": "count",
+				"min": 1,
+                "tag":"",
+				"max": 1,
+				"clean_name": "Enchanted Brown Mushroom",
+				"key": "ench_brown_mushroom"
+			},
+			{
+				"quantifier": "count",
+				"min": 1,
+				"max": 1,
+                "tag":"",
+				"clean_name": "Red Puzzle Cube",
+				"key": "red_puzzle_cube"
+			},
+			{
+				"quantifier": "quantity",
+				"min": 3.00,
+				"max": 3.60,
+				"tag": "ml",
+				"clean_name": "Red Potion",
+				"key": "red_bottle"
+			},
+			{
+				"quantifier": "quantity",
+				"tag": "g",
+				"min": 0.40,
+				"max": 0.80,
+				"clean_name": "Ground White Feather",
+				"key": "grnd_white_feather"
+			}
+		],
+		[{
+				"quantifier": "quantity",
+				"min": 75,
+				"max": 81,
+                "tag":"°C",
+				"clean_name": "Temperature",
+				"key": "temperature"
+			},
+			{
+				"quantifier": "count",
+				"min": 1,
+				"max": 1,
+                "tag":"",
+				"clean_name": "Enchanted White Feather",
+				"key": "ench_white_feather"
+			},
+			{
+				"quantifier": "count",
+				"min": 1,
+                "tag":"",
+				"max": 1,
+				"clean_name": "Yellow Puzzle Cube",
+				"key": "yellow_puzzle_cube"
+			},
+			{
+				"quantifier": "quantity",
+				"min": 3.00,
+				"max": 3.60,
+				"tag": "ml",
+				"clean_name": "Blue Potion",
+				"key": "blue_bottle"
+			},
+			{
+				"quantifier": "quantity",
+				"tag": "g",
+				"min": 1.70,
+				"max": 2.90,
+				"clean_name": "Ground Brown Mushroom",
+				"key": "grnd_brown_mushroom"
+			}
+		],
+		[{
+				"quantifier": "quantity",
+				"min": 15,
+				"max": 21,
+                "tag":"°C",
+				"clean_name": "Temperature",
+				"key": "temperature"
+			},
+			{
+				"quantifier": "count",
+				"min": 1,
+				"max": 1,
+                "tag":"",
+				"clean_name": "Enchanted White Feather",
+				"key": "ench_white_feather"
+			},
+			{
+				"quantifier": "count",
+				"min": 1,
+                "tag":"",
+				"max": 1,
+				"clean_name": "Purple Puzzle Cube",
+				"key": "purple_puzzle_cube"
+			},
+			{
+				"quantifier": "quantity",
+				"min": 3.00,
+				"max": 3.60,
+				"tag": "ml",
+				"clean_name": "Red Potion",
+				"key": "red_bottle"
+			},
+			{
+				"quantifier": "quantity",
+				"tag": "g",
+				"min": 1.70,
+				"max": 2.90,
+				"clean_name": "Ground Brown Mushroom",
+				"key": "grnd_brown_mushroom"
+			}
+		]
+	]
+}

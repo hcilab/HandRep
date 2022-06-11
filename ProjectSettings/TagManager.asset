@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - LeftHand
+  - RightHand
+  - SETTINGS
+  - HighlightManager
+  - Spawner
+  - DataManager
+  - FireHandle
+  - EnchantHandle
+  - ChestLid
+  - PestleHandle
+  - ScaleSocket
+  - LeftRay
+  - RightRay
+  - EnchantTriggerArea
+  - CorkSocket
+  - MortarSocket
+  - LeverHandle
+  - PuzzleCube
+  - EmptyPotion
+  - CustomPotion
+  - ChestBase
+  - Cork
+  - BluePotion
+  - RedPotion
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Interactable
+  - Particles
+  - IgnoreParticles
+  - IgnoreInteractable
+  - IgnoreAll
+  - ParticleKiller
+  - PleaseAcceptParticles
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
