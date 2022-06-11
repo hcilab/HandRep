@@ -7,9 +7,14 @@ Any VR headset should work with this.
 
 While there are defaults setup for use in the editor, there are also commandline variables for running the build.
 
+
 -seated true/false : Whether or not the player is seated.
+
 -pid PXXX : The participant ID number.
+
 -order 0/1/2/3/4/5 the order of the current three hand representations (Sphere/Index/Hand)
+
+
 
 This uses a slightly out of date version of OpenXR/XR Interaction Toolkit (just before dual-hand interactions on an object were introduced).
 XR Interaction Toolkit: Version 1.0.0-pre.8 - October 27, 2021
