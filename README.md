@@ -1,5 +1,10 @@
 # HandRep
- (VR) Game and Tasks themed around making a potion for testing different Hand Representations in VR
+ (VR) Game and Tasks themed around making a potion for testing different Hand Representations in VR.
+ 
+*Project by: Nick Balcomb*
+
+*2021-2022*
+______________________________________________________________________________________________________
 
 Note: The current setup requires the use of Valve Index Controllers. However, if you have 3d models of other VR controllers (which are easy to get. Valve's VR packages have them I think) you can then assign the appropriate materials to different buttons and the controller itself (look at the index controller prefabs I made as reference) then map the appropriate OpenXR control profiles, then they should just work. There is code to swap between the controllers for this reason (Index, Vive, Oculus etc) but it is easy to expand. SubNote: Some bug patching for controller models may currently be targeted for just Index in how it behaves with interacting.
 
